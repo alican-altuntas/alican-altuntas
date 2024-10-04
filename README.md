@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alican-altuntas
 - 👀 I’m interested in Power Systems 
-- 🌱 I’m currently learning Power System, Distribution System and Forecast
+- 🌱 I’m currently learning Power Systems and Power Electronics
 - 💞️ I’m looking to collaborate on Power System Design and Operation Projects
 - 📫 How to reach me via mail at alicanaltuntas91@gmail.com 
 - 😄 Pronouns: He/Him
